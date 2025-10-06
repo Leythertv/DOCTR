@@ -1,7 +1,6 @@
 # DOCTR - OCR Pipeline Multicapa con IA
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Ollama](https://img.shields.io/badge/Ollama-Supported-orange.svg)](https://ollama.ai)
 
 ## 🚀 Descripción General
@@ -197,7 +196,7 @@ Los prompts están definidos en el método `process_with_qwen()` y pueden ser mo
 
 ## 📄 Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para detalles.
+Este proyecto es de código abierto. Si deseas utilizarlo, modificarlo o contribuir, siéntete libre de hacerlo. Para más información sobre licenciamiento, puedes contactar al maintainer.
 
 ## 🙏 Agradecimientos
 
